@@ -1,4 +1,4 @@
-[LIVE DEMO](https://landingpageuniversity.herokuapp.com/Home)
+[LIVE DEMO](https://any-university.herokuapp.com/home)
 
 # Infotech University
 
@@ -7,9 +7,9 @@
 ![Homepage](/client/src/images/homeDemo1.png)
 
 ## Description
-  A University webpage designed for three users that upon registering and logging in gain access to different features. The users are prospective students, faculty staff and alumni.
+  A University webpage designed for three categories of users that upon registering and logging in, gain access to different features. The users are prospective students, faculty staff and alumni.
 
-[Click here](https://landingpageuniversity.herokuapp.com/Home) to see a live demo of this project.
+[Click here](https://any-university.herokuapp.com/home) to see a live demo of this project.
   
 ## Table of Contents
   1. [Technologies](#technologies)
@@ -43,7 +43,12 @@
   ### Deployment
   * Heroku
 
+  ## Concept
+
+  The application was created and designed to function as a web app for a learning institution meaning that it would be an ideal interface for [any university](https://any-university.herokuapp.com/home) or school to use.
+
   ## Usage
+
   The functionality is varied based on the type and role of user: Faculty, Student, Alumni, Admin.
 
   * Faculty: User is able to view different employee categories and each employee profile which comprises of the instructor's profile, email and phone number. This is also accessible via a search function. Administrator can add and delete employees via an add & delete function which is hidden from non-administrators using role-based authentication.
@@ -75,12 +80,12 @@
   *  ![License badge](https://img.shields.io/badge/License-MIT-green)
 
   ## Questions
-  * If you have questions, email me at: 
+  * If you have questions, email me at: jmasaviru@gmail.com
 
 ## Links
 
 * Video link for demonstration :
 
-* Heroku link : https://landingpageuniversity.herokuapp.com/Home
+* Heroku link : (https://any-university.herokuapp.com/home)
 
-* Info Tech University GitHub repository URL: (https://github.com/brianrshort/project-three)
+* Info Tech University GitHub repository URL: (https://github.com/jmasaviru/project-three)
